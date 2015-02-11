@@ -1,14 +1,14 @@
 {
-  "name": "Francois Boucher",
-  "version": "0.0.1",
-  "description": "Azure Continous Integration Resume",
+  "name": "Steven-Resume",
+  "version": "0.0.0",
+  "description": "Azure TED Continous Integration Demo",
   "main": "app.js",
   "author": {
-    "name": "fboucher",
+    "name": "sedouard",
     "email": ""
   },
   "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html -t elegant"
+	"test": "node ./node_modules/resume-cli/index.js export index -f html --theme elegant"
   },
   "dependencies": {
     "resume-cli": "^0.3.10"
