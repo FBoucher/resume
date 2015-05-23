@@ -4,7 +4,6 @@
     "label": "Technical Team Lead, Microsoft Azure Advisor",
     "picture": "http://2.bp.blogspot.com/-1hbmIx2g7vA/UOYSio5a05I/AAAAAAAAMZQ/-_FNoELiwJg/s200/PB2_6191_1000.png",
     "email": "fboucher@outlook.com",
-    "phone": "",
     "website": "http://frankysnotes.com",
     "summary": "I have been active in the community for over fifteen years. Since 2011, I have been sharing my passion for Windows Azure. You can read me on Frankysnotes.com, and in French on CloudEnFrancais.com.",
     "location": {
@@ -15,6 +14,14 @@
       "region": "Quebec"
     },
     "profiles": [
+      {
+        "network": "Frankys Notes",
+        "url": "http://frankysnotes.com"
+      },
+      {
+        "network": "Cloud en Francais",
+        "url": "http://blogenfrancais.com"
+      },
       {
         "network": "LinkedIn",
         "username": "fboucheros",
@@ -40,9 +47,9 @@
   "work": [
     {
       "company": "Lixar",
-      "position": "Technical Team Lead | Microsoft Azure Advisor",
+      "position": "Technical Team Lead, Microsoft Azure Advisor",
       "website": "http://lixar.com",
-      "startDate": "2014-09-20",
+      "startDate": "2014-09-20"
     },
     {
       "company": "Microsoft",
@@ -52,17 +59,17 @@
       "highlights": [
         "Help Microsoft Partners to leverage their solutions by using Windows Azure Services.",
         "Develop proof of concept, migrate solution, architect application using Windows Azure.",
-        "Give training and presentations.",
+        "Give training and presentations."
       ]
     },
     {
       "company": "Matricis",
-      "position": "Systems Analyst | Microsoft Azure Advisor",
+      "position": "Systems Analyst, Microsoft Azure Advisor",
       "website": "http://Matricis.com",
       "startDate": "2011-02-02",
       "endDate": "2014-09-02",
       "highlights": [
-        "Develop integration interfaces and web applications.",
+        "Develop integration interfaces and web applications."
       ]
     },
     {
@@ -127,27 +134,27 @@
     {
       "title": "MCPD Windows Azure Developer",
       "date": "2012-08-01",
-      "awarder": "Microsoft",
+      "awarder": "Microsoft"
     },
     {
       "title": "MCTS: .NET Framework 4, Data Access",
       "date": "2012-08-01",
-      "awarder": "Microsoft",
+      "awarder": "Microsoft"
     },
     {
       "title": "MCP: Designing and Developing Windows Azure Applications",
       "date": "2011-11-01",
-      "awarder": "Microsoft",
+      "awarder": "Microsoft"
     },
     {
       "title": "MCP: WCF Development with Microsoft .NET Framework 4",
       "date": "2012-04-01",
-      "awarder": "Microsoft",
+      "awarder": "Microsoft"
     },
     {
       "title": "Train the trainer ",
       "date": "2012-09-01",
-      "awarder": "AFI Montréal",
+      "awarder": "AFI Montréal"
     }
   ],
   "publications": [
@@ -164,7 +171,11 @@
       "name": "C# and .NET",
       "level": "Master",
       "keywords": [
-        "C#"
+        "C#",
+        ".Net",
+        "Asp.Net",
+        "MVC",
+        "EF"
       ]
     },
     {
