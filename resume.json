@@ -46,10 +46,13 @@
   },
   "work": [
     {
-      "company": "Lixar",
+      "company": "Lixar IT",
       "position": "Technical Team Lead, Microsoft Azure Advisor",
       "website": "http://lixar.com",
-      "startDate": "2014-09-20"
+      "startDate": "2014-09-20",
+      "highlights":[
+        "Lead a dedicated team of developers in the advancement of technology in the mobile, air, and telecommunication industries." 
+  ]
     },
     {
       "company": "Microsoft",
@@ -119,18 +122,71 @@
         "Create and develop an object engine to improve the application time development.",
         "Creation of add-ons for ACOMBA and management tools."
       ]
-    }
+    },
+		{
+			"company": "Jepca inc.",
+			"position": "Programmer-analyst / DBA",
+			"startDate": "2002-05-01",
+			"endDate": "2003-06-29",
+			"highlights": [
+				"Base classes (OO) development.",
+				"Web development",
+				"Create and develop a object engine to improve the application time development.",
+				"Creation of add-ons for ACOMBA and management tools.",
+				"[VB6, VB.NET, C#, XML-XSLT, COM, SQL, PHP OO, ASP, ASP.Net, JavaScript]"
+			]
+		},
+		{
+			"company": "NuVision-Automation",
+			"position": "Programmer-Analyst / DBA",
+			"startDate": "2001-01-01",
+			"endDate": "2002-03-29",
+			"highlights": [
+				"Web development: graphic design, database, coding, maintenance of ScoreKeeper (www.sk-hockey.com).",
+				"DBA on MySql",
+				"[PHP, SQL, Flash, XML, JavaScript]"
+			]
+		}
   ],
   "education": [
+    {
+			"institution": "Afi",
+			"studyType": "Former des formateurs",
+			"startDate": "2012-01-01",
+			"endDate": "2012-12-31"
+		},
     {
       "institution": "CÉGEP Édouard-MontPetit",
       "area": "Information Technology",
       "studyType": "Technic",
       "startDate": "1999-09-01",
       "endDate": "2002-05-01"
-    }
+    },
+		{
+			"institution": "Université du Québec à Montréal",
+			"studyType": "n/a",
+			"startDate": "1998-01-01",
+			"endDate": "1998-12-31"
+		},
+		{
+			"institution": "HEC Montréal",
+			"studyType": "B.A.C.",
+			"startDate": "1996-09-01",
+			"endDate": "1997-06-30"
+		},
+		{
+			"institution": "CÉGEP de St Hyacinthe",
+			"studyType": "D.E.C",
+			"startDate": "1991-09-01",
+			"endDate": "1993-06-30"
+		}
   ],
   "awards": [
+    {
+      "title": "Microsoft Azure Most Valuable Professional (MVP)",
+      "awarder": "Microsoft",
+      "date":  "2015-04-01"
+    },
     {
       "title": "MCPD Windows Azure Developer",
       "date": "2012-08-01",
